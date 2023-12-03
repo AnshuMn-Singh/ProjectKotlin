@@ -1,7 +1,24 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main()
+{
+    println("Hi kotlin")
+    println("Hello world")
+    print("Hi this is print message")
+    print(" this is next line \n")
+    print("this is next to next line")
+    printUserId()
+    printUserName()
+    printUserAddress()
+}
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+fun printUserId(){
+    println("Printing user id")
+}
+
+fun printUserName(){
+    println("printing user name")
+
+}
+
+fun printUserAddress(){
+    println("printing user address")
 }
