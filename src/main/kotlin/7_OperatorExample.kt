@@ -51,7 +51,7 @@ fun main() {
 
 //    Assignment operator
     var name = "Substring Technologies"
-    name = "Learn Code With Durgesh"
+    name = "Learn Code With Anshu"
 
 
 //    Arithmetic Operations

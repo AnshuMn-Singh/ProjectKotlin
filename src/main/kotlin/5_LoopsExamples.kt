@@ -3,13 +3,13 @@ fun main() {
     var count = 1
     while (count <= 10) {
 //        body statements
-        println("durgesh $count")
+        println("Anshu $count")
         count++
     }
     println("Loop exited")
 
     do {
-        println("durgesh $count")
+        println("Anshu $count")
         count++
     } while (count <= 10);
 

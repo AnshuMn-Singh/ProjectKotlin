@@ -27,6 +27,6 @@ fun main() {
     favActivities[2] = "Listen Music"
     println(favActivities[2])
     println("number 1 is $number1")
-    val user1: User = User("Durgesh", "252525", "Gomti Nagar lucknow")
+    val user1: User = User("Anshu", "252525", "Gomti Nagar lucknow")
     user1.ramu()
 }
